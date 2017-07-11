@@ -1,0 +1,7 @@
+{
+  "name": "polymerfirstApp",
+  "short_name": "polymerfirstApp",
+  "description": "simple application with polymer",
+  "start_url": "/",
+  "display": "standalone"
+}
